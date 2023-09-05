@@ -1,6 +1,5 @@
 import React,{useState,useContext} from 'react'
 import TextField from '@mui/material/TextField';
-import "./Signup.css"
 import { Button } from '@mui/material';
 import tbc from "../Media/TBC.png"
 import { Alert } from 'reactstrap';
